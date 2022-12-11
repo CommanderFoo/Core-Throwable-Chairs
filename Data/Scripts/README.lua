@@ -10,7 +10,7 @@
 
 The Throwable Chairs component allows players to pickup a chair and throw it at other
 players, causing them to be killed. This adds a fun component to social spaces.
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 ==========
 How to use

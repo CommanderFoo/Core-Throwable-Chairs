@@ -16,8 +16,8 @@ players, causing them to be killed. This adds a fun component to social spaces.
 How to use
 ==========
 
-Drag the Throwable Chairs template into the Hierarchy. Enter preview mode and pickup a chair to throw
-it around. 
+Drag the Throwable Chairs template into the Hierarchy. Enter preview mode and pickup a chair
+to throw it around. 
 
 More chairs chan be added by opening up the folder and creating more Chair templates.
 
